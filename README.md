@@ -12,16 +12,7 @@ This repository contains a CRM (Customer Relationship Management) strategy tailo
 ---
 
 ## 📂 Repository Structure
-crm-strategy-retail/
-├── data/
-│ └── customer_data.csv
-├── notebooks/
-│ └── crm_strategy.ipynb
-├── reports/
-│ └── crm_strategy_deck.pdf
-├── README.md
 
----
 
 ## 🧰 Tools & Technologies
 - Python (Pandas, Matplotlib)
